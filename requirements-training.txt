@@ -1,0 +1,5 @@
+-r requirements.txt
+
+# Additional dependencies used by data preparation scripts
+pydicom
+pyarrow
